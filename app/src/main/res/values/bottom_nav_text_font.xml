@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomBottomNavigationTextInactive" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/karla_variable_font_wght</item>
+    </style>
+</resources>
